@@ -1,1 +1,4 @@
-# Final-Year-Complete-Project-Covid19-twitter-sentiment-analysis-using-deep-learning-methods-
+## Analysis and prediction of user sentiment on COVID-19 pandemic through deep learning approach using tweets
+Corona-virus disease 2019 (COVID-19) is a global pandemic affecting 188 countries and territories and more than 18.7 million patients worldwide according to August 6, 2020. Corona-viruses are zoonotic, meaning they are transmitted between animals and people, but the ways in which it is transmitted, animal reservoirs, prophylaxis, and precise clinical manifestations. There is currently no vaccine and appropriate treatment for COVID-19 that‘s why a number of countries have resorted to complete lock-down. During this lock-down, people have taken social networks to express their feelings and find a way to calm themselves down.
+
+This project study has been to analysis the sentiments of different countries regarding COVID-19 and identify what emotions people have been sharing from different parts of the world and then use some deep learning methods includes Simple Neural Networks,Computational Neural Networks(CNN) and Recurrent Neural Networks(RNN)/LTSM.
